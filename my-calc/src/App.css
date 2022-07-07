@@ -1,0 +1,37 @@
+.calc{
+  border: none;
+  width: 280px;
+  margin: 200px auto;
+  
+}
+h1{
+  text-align: center;
+  background-color: burlywood;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 10px;
+  width: 100%;
+  border-top-left-radius: 150px;
+  border-bottom-right-radius: 150px;
+}
+#answer{
+  border: none;
+  padding: 10px;
+  font-size: 35px;
+  width: 100%;
+  height: 45px;
+  text-align: right;
+  box-shadow: rgb(205, 180, 128) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  border-radius: 5px;
+}
+.button{
+  background: burlywood;
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+  color: white;
+  font-size: 20px;
+  border-radius: 50%;
+  float: left ;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;}
